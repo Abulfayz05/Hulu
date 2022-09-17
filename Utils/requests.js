@@ -1,4 +1,4 @@
-const API_KEY = "fac16dd57a8faa6be8f899f97846e9a7";
+const API_KEY = "bf8ba56f3ada1bb6336a8f43886c86dc";
 
 export default {
     fetchTrending: {
